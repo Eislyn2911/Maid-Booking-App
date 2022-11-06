@@ -1,6 +1,6 @@
 # Maid-Booking-App
 
-Developed a Maid Booking App that provides maid services where users can perform functions related to booking a maid, and admins can perform functions related to maid and client management.
+Provides maid services where users can perform functions related to booking a maid, and admins can perform functions related to maid and client management.
 
 • Responsible for developing features for User, Admin and Client class.
 
